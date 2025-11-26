@@ -1,0 +1,9 @@
+header div:first-child{padding:2%; background: yellow; width:50; margin: 10px; text-align: center; font-size: larger}
+header div:nth-child(2){padding: 7%; background: green; width:15%; float:left; margin: 10px; text-align: center; height:150px; font-size: larger}
+header div:nth-child(3){padding: 7%; background: red; width:54%; float:right; margin: 10px; text-align: center; height: 150px; font-size: larger}
+header div:nth-child(4){padding: 7%; background: rgb(8, 27, 201); width:85%; float:left; margin: 10px; text-align: center; font-size: larger}
+.clear{clear:both;}
+
+
+
+

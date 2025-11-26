@@ -1,0 +1,20 @@
+header div:first-child{padding: 4%; background: blue; width:35%; float:left}
+header div:nth-child(2){padding: 4%; background: green; width:35%; float:left}
+.clear{clear:both;}
+nav ul:first-child{padding:0.5%; background-color: red; width:85%; float:left}
+nav ul li{
+  text-align: center;
+  padding: 2%;
+  background-color: red;
+  float:left;
+  list-style: none;
+}
+section div:first-child{padding: 4%; background: blue; width:15%; float:left}
+section div:nth-child(2){padding: 4%; background: green; width:55%; float:left}
+footer div:first-child{padding: 4%; background: yellow; width:78%; float:left}
+button{
+    background-color: yellow;
+    color:black;
+    padding: 10px 20px; /* Top/Bottom padding 10px, Left/Right padding 20px */
+}
+
